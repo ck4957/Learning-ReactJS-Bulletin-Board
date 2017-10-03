@@ -2,7 +2,7 @@
   "name": "bulletin-board",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://calm-tor-45860.herokuapp.com"
+  "homepage":"http://calm-tor-45860.herokuapp.com",
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
