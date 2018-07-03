@@ -1,7 +1,5 @@
 This project is developed as part of learning ReactJS from Lynda.com
 
-Reference: https://www.lynda.com/React-js-tutorials/Learn-React-js-Basics/519668-2.html
-
 ## Prerequisites
 
 There are not many prerequisites required to build and run this project, but you'll need the following:
