@@ -1,3 +1,5 @@
+# Sticky Notes using React
+
 This project is developed as part of learning ReactJS from Lynda.com
 
 ## Prerequisites
