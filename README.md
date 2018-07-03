@@ -16,7 +16,9 @@ There are not many prerequisites required to build and run this project, but you
   $ git clone https://github.com/ck4957/Learning-ReactJS-Bulletin-Board
   ```
   Navigate into it using your Terminal (Mac & Linux) or Command Prompt (Windows)
-  
+  ```
+  $ cd Learning-ReactJS-Bulletin-Board
+  ```
 ### Install Dependencies
   Run the following command:
 
